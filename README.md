@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello World,
 
-<!--
-**hkirkan/hkirkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://instagram.com/huseyin_kirkan">
+  <img align="left" alt="Hüseyin KIRKAN - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+</a>
+<a href="https://twitter.com/huzeyn_k">
+  <img align="left" alt="Hüseyin KIRKAN - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+I'm an Technician by profession and a Teacher by passion.  
+
+
+Technologies:
+- Javascript, Fusion, React, Angular, Vue, Weex, jQuery, PWA, AMP
+- Node, Java, Ruby on Rails
+
+Also interested in:
+- Digital Marketing, SEO, SMM, Blogging, Web Security, Wordpress  
+
+Cheers,  
+Hüseyin KIRKAN 
+
